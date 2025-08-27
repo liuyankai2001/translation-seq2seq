@@ -1,7 +1,9 @@
 .idea/*
 test/
-data/*
-!data/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
 logs/*
 !logs/.gitkeep
 models/*
